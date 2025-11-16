@@ -1,10 +1,15 @@
 ## Hello, my name is Doc
 
 I'm an undergraduate Computer Science major who particularly enjoys:
-  -Low-level and systems programming (C/C++)
-  -Data structure development in Visual Studio
-  -Object Oriented Programming
-  -Game development (GameMaker)
+
+Low level and systems programming (C/C++)
+
+Data Structure design
+
+Object Oriented programming
+
+Game Development
+
 
 - 🔭 I’m currently working on:
 
