@@ -1,4 +1,4 @@
-## Hello, My name is Doc
+## Hello, my name is Doc
 
 I'm an undergraduate Computer Science major who particularly enjoys:
     -Low-level and systems programming (C/C++)
