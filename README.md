@@ -37,9 +37,11 @@ I'm an undergraduate Computer Science major who particularly enjoys:
   
     - Adaptive binary tree rebalances its structure when the nodes are out of balance, to permit more efficient searching.
   
-  - B Tree Structure ()
+  - B Tree Structure ([Link to B Tree](https://github.com/dhcpts/B-Tree-Implementation/tree/main))
   
     - B Tree reads in several values, and stores them in multi-key nodes for an efficient search structure.
+
+  - More projects will be present here as they are completed.
   
 - 📫 How to reach me:
 
