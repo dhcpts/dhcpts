@@ -29,7 +29,7 @@ I'm an undergraduate Computer Science major who particularly enjoys:
 
 - 📂 Featured Projects:
 
-  - Line Editor Program ()
+  - Line Editor Program ([Link to Line Editor](https://github.com/dhcpts/Line-Editor-Program-C-))
   
     - Program allows for reading and writing to files, and allows for line access, and changes via insertion and deletion.
   
