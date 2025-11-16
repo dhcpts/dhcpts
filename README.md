@@ -33,7 +33,7 @@ I'm an undergraduate Computer Science major who particularly enjoys:
   
     - Program allows for reading and writing to files, and allows for line access, and changes via insertion and deletion.
   
-  - AVL Binary Tree Structure ()
+  - AVL Binary Tree Structure ([Link to AVL Tree](https://github.com/dhcpts/AVL-Tree-Implementation/tree/main))
   
     - Adaptive binary tree rebalances its structure when the nodes are out of balance, to permit more efficient searching.
   
